@@ -23,6 +23,10 @@ public class Schule {
 	public Schule(String bezeichnung) {
 		bezeichnung().set(bezeichnung);
 	}
+	
+	public Schule() {
+		
+	}
 }
 
 

@@ -24,6 +24,9 @@ public class SchuleViewController {
 	private TableView tblView;
 	@FXML
 	private TableColumn colSchule;
+	
+	private Schule s = new Schule();
+	
 
 	// Event Listener on Button[#btnNeu].onAction
 	@FXML

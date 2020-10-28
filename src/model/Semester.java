@@ -32,4 +32,8 @@ public class Semester {
 		bezeichnung().set(bezeichnung);
 		wertung().set(wertung);
 	}
+	
+	public Semester() {
+		
+	}
 }

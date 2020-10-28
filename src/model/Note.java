@@ -41,4 +41,8 @@ public class Note {
 		wertung().set(wertung);
 		note().set(note);
 	}
+	
+	public Note() {
+		
+	}
 }
